@@ -44,8 +44,8 @@ npm install --save @silaas/videojs-dynamic-watermark
 
 - *overlayElId* `string` Unique id to be used as the `id` attribute of watermark element
 - *overlayContent* `string` Watermark content
-- *changeDuration* `int` Milliseconds after which the position of watermark is changed. FYI `1000milliseconds = 1 second`
-- *cssText* `string` CSS style properties to be used for the watermark. Copy what is  in defalt cssText and change color, font-size if you want to
+- *changeDuration* `int` Milliseconds after which the position of watermark is changed. FYI `1000 milliseconds = 1 second`
+- *cssText* `string` CSS style properties to be used for the watermark. Copy what is  in default cssText and change color, font-size if you want to
 
 ## Usage
 

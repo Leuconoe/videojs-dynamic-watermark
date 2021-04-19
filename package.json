@@ -1,9 +1,10 @@
 {
   "name": "@silaas/videojs-dynamic-watermark",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Dynamic watermarking for VideoJS",
   "main": "dist/videojs-dynamic-watermark.cjs.js",
   "module": "dist/videojs-dynamic-watermark.es.js",
+  "repository": "https://github.com/silaas/videojs-dynamic-watermark.git",
   "generator-videojs-plugin": {
     "version": "7.6.3"
   },
